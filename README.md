@@ -1,4 +1,3 @@
-//generame un readme, es un dashboard hecho en react, contiene tailwind, redux toolkit, fontawesome y react router dom
 # Dashboard React App
 
 This is a dashboard application built with React. It includes the following libraries and frameworks:
